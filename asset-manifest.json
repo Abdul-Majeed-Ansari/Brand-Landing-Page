@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/static/css/main.be24d791.css",
+    "main.js": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/static/js/main.0144214c.js",
+    "static/media/shoe_image.png": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/static/media/shoe_image.6cffb0a1352567921069.png",
+    "index.html": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/index.html",
+    "main.be24d791.css.map": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/static/css/main.be24d791.css.map",
+    "main.0144214c.js.map": "//github.com/Abdul-Majeed-Ansari/Brand-Landing-Page/static/js/main.0144214c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be24d791.css",
+    "static/js/main.0144214c.js"
+  ]
+}
